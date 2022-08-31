@@ -1,7 +1,10 @@
 ### hey there 
 
-![tkonexhh's Github stats](https://github-readme-stats.vercel.app/api?username=tkonexhh&show_icons=true)
 
+<div align = "center">
+![tkonexhh's Github stats](https://github-readme-stats.vercel.app/api?username=tkonexhh&show_icons=true)
+<hr>
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
