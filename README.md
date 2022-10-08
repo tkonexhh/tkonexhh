@@ -6,8 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#      2 hrs 25 mins   █████████████████████▓░░░   87.14 %
-Other   20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
